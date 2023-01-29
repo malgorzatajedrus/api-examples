@@ -1,3 +1,4 @@
 {
-"foo": "bar"
+"takeOff":[city: "Katowice", code: "KTW"], [city: "Warszawa", code: "WAW"]
+  
 }
