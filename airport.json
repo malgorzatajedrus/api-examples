@@ -1,4 +1,4 @@
 {
-"takeOff":[city: "Katowice", code: "KTW"], [city: "Warszawa", code: "WAW"]
+"takeOff": [{"city": "Katowice", "code": "KTW"}, {"city": "Warszawa", "code": "WAW"}]
   
 }
